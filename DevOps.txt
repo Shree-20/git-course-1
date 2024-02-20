@@ -1,0 +1,7 @@
+Tools to learn
+
+git
+jenkins
+docker
+ansible
+kubernetes
