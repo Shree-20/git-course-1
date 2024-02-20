@@ -1,0 +1,2 @@
+git takes user input
+It look after the files at staging area
